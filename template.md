@@ -1,8 +1,4 @@
 ---
-name: さや
-prefecture: 東京
-party: 参政党
-photo: /assets/images/Saya.jpg
 promises:
   2025:
     - topic: 教育、働き方改革
@@ -34,11 +30,6 @@ promises:
       description: 
       status: 
 
-    - source:
-
-
-    
+    - source: https://yoshihiro-okumura.com/
 ---
-
-
 

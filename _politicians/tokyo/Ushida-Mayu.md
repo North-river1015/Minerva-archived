@@ -14,5 +14,3 @@ promises:
     description: Increase defense budget
     status: unassessed
 ---
-
-

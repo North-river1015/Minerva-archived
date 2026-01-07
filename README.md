@@ -1,4 +1,4 @@
-https://north-river1015.github.io/banken/
+[https://north-river1015.github.io/banken/](https://north-river1015.github.io/Minerva/)
 
 
 /vote/　　

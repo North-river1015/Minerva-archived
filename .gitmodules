@@ -1,9 +1,0 @@
-[submodule "Minerva/theme"]
-	path = Minerva/theme
-	url = https://github.com/North-river1015/hugo-PaperMod
-[submodule "Banken/theme"]
-	path = Banken/theme
-	url = https://github.com/North-river1015/hugo-PaperMod
-[submodule "themes/PaperMod"]
-	path = themes/PaperMod
-	url = https://github.com/North-river1015/hugo-PaperMod.git

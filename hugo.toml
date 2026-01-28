@@ -1,2 +1,4 @@
 theme = "PaperMod"
 baseURL = "https://north-river1015.github.io/Minerva/"
+languageCode = 'en-us'
+title = 'Hugo site for documenting manifesto'

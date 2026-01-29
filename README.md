@@ -2,6 +2,8 @@ https://north-river1015.github.io/Minerva/
 
 https://github.com/geolonia/japanese-prefectures/
 
+ソースは選挙公報とウェブ、まずは選挙公報を
+
 /vote/　　
 └ 選挙一覧  　　
 └ 都道府県  　　

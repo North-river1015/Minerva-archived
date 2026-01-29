@@ -6,6 +6,8 @@ title = 'Minerva'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+# 地図をウェブサイトに入れるために、[markup.goldmark.renderer]　unsafeをtrueに変更
 [markup]
   [markup.goldmark]
     duplicateResourceFiles = false

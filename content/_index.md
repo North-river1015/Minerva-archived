@@ -5,9 +5,18 @@ layout: "home"
 
 # minerva
 
+
+
 小選挙区（地図）
+<!-- https://github.com/geolonia/japanese-prefectures/ -->
+
+
 <?xml version="1.0" encoding="utf-8"?>
 <svg class="geolonia-svg-map" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style type="text/css"> <![CDATA[
+.geolonia-svg-map .prefecture polygon, .geolonia-svg-map .prefecture path { fill: #EEEEEE; transition: fill .2s; } .geolonia-svg-map .prefecture:hover polygon, .geolonia-svg-map .prefecture:hover path { fill: #00ff99ff !important; }] 
+]]></style>
+
   <title>Japanese Prefectures</title>
   <desc>Created by Geolonia (https://geolonia.com/).</desc>
   <g class="svg-map" transform="matrix(1.453488, 0, 0, 1.453488, -435.334259, -216.944946)">

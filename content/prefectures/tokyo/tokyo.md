@@ -1,10 +1,10 @@
 ---
 title: 東京都
-url: /tokyo/
+url: /prefectures/tokyo/
 ---
 
 ## 東京都の小選挙区
 
-- [東京1区](tokyo-district/1.md)
-- [東京2区](./districts/2/)
-- [東京3区](./districts/3/)
+- [東京1区](.tokyo/1.md)
+- [東京2区](./tokyo/2/)
+- [東京3区](./tokyo/3/)

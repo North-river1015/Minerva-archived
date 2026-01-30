@@ -1,7 +1,6 @@
 ---
 title: "Minerva"
 layout: "home"
-url: minerva/
 ---
 
 

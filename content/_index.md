@@ -1,7 +1,10 @@
 ---
 title: "Minerva"
 layout: "home"
+url: 'minerva' 
 ---
+
+
 # 2026年衆議院選挙
 <!-- https://github.com/geolonia/japanese-prefectures/ -->
 

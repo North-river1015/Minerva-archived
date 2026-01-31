@@ -1,6 +1,6 @@
 ---
 title: "海江田万里"
-url: /shu/tokyo/1/Kaieda-Banri.md
+url: Minerva/shu/tokyo/1/Kaieda-Banri
 ---
 
 

@@ -5,6 +5,6 @@ url: /prefectures/tokyo/
 
 ## 東京都の小選挙区
 
-- [東京1区](Minerva/prefectures/tokyo/1/)
-- [東京2区](Minerva/prefectures/tokyo/2/)
-- [東京3区](Minerva/prefectures/tokyo/3/)
+- [東京1区](./1/)
+- [東京2区](./2/)
+- [東京3区](./3/)

@@ -1,4 +1,11 @@
-(https://www.senkyo.metro.tokyo.lg.jp/documents/d/senkyo/R6syuinsen_syosenkyo_01)
+---
+title: "海江田万里"
+url: /shu/tokyo/1/Kaieda-Banri.md
+---
+
+
+
+[選挙公報](https://www.senkyo.metro.tokyo.lg.jp/documents/d/senkyo/R6syuinsen_syosenkyo_01)
 
 安心な生活のための５つの経済対策
 - 今こそ安心の年金改革
@@ -18,4 +25,3 @@
 
 公約は
 最低賃金1500円以上
-のみ

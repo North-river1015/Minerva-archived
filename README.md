@@ -1,18 +1,3 @@
-https://north-river1015.github.io/Minerva/
+# [Minerva](https://minerva-project.org/)
 
-https://github.com/geolonia/japanese-prefectures/
-
-ソースは選挙公報とウェブ、まずは選挙公報を
-
-/vote/　　
-└ 選挙一覧  　　
-└ 都道府県  　　
-└ 選挙区　　
-└ 候補者
-
-/evaluate/　　
-└ 選挙一覧（当選時）　　
-└ 都道府県　　
-└ 選挙区　　
-└ 当選者　　
-└ 公約　　
+## This repository has been archived by the owner and is now in a read-only state. Minerva was created here, but this repo contains some extra files. Some may be useful in the future, so I tranfered the useful files to other repo and decided keep this in an archived state. The repository updated is at [here](https://github.com/North-river1015/Minerva).
